@@ -13,9 +13,9 @@
                                         <label>Product Name</label>
 										<select name="Product"  name="product_name" placeholder="Product Name" id="new_product_name">
 											<option value="">--- Choose a Product ---</option>
-											<option value="red">Keyboard</option>
-											<option value="green">Monitor</option>
-											<option value="blue">Mouse</option>
+											<option value="keyboard">Keyboard</option>
+											<option value="monitor">Monitor</option>
+											<option value="mouse">Mouse</option>
 										</select>
                                 </div>
                                 <div class="field">
