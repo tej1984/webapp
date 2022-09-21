@@ -11,7 +11,12 @@
                                 <h3 class="ui header"></h3>
                                 <div class="field">
                                         <label>Product Name</label>
-                                        <input type="text" name="product_name" placeholder="Product Name" id="new_product_name" required>
+										<select name="Product"  name="product_name" placeholder="Product Name" id="new_product_name">
+											<option value="">--- Choose a Product ---</option>
+											<option value="red">Keyboard</option>
+											<option value="green">Monitor</option>
+											<option value="blue">Mouse</option>
+										</select>
                                 </div>
                                 <div class="field">
                                         <label>Product Qty.</label>
